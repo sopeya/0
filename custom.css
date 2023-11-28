@@ -17,6 +17,7 @@ img pexels-markus.jpg{
 h1.web{
   color: #FEFEFE;
 }
+
 .color-overlay{
   background-color: rgba(0, 0, 0, 0.6);
   min-height: 60vh;
@@ -25,6 +26,10 @@ h1.web{
 .singleCol{
   max-width: 750px;
   background-color: #FEFEFE;
+}
+
+.card-img-top:hover{
+	transform: scale(1.2)
 }
 
 .img profile.png{
