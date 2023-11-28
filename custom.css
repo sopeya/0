@@ -26,13 +26,10 @@ h1.web{
 }
 
 .singleCol{
-  max-width: 750px;
-  background-color: #FEFEFE;
-}
-
-div.container{
   margin-top: 5;
   margin-bottom: 5;
+  max-width: 750px;
+  background-color: #FEFEFE;
 }
 
 .profile.png{
