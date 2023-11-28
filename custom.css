@@ -28,10 +28,6 @@ h1.web{
   background-color: #FEFEFE;
 }
 
-div.card:hover{
-	transform: scale(1.2)
-}
-
 .img profile.png{
   border: 15px solid #4E3622;
   border-radius: 174px;
