@@ -28,7 +28,7 @@ h1.web{
   background-color: #FEFEFE;
 }
 
-.card-img-top:hover{
+div.card:hover{
 	transform: scale(1.2)
 }
 
