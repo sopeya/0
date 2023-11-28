@@ -12,7 +12,7 @@ body{
   background-color: #FEFEFE;
 }
 
-img.pexels-markus.jpg{
+.pexels-markus{
   backdrop-filter: blur(5px);
 }
 
@@ -35,9 +35,10 @@ div.container{
   margin-bottom: 5;
 }
 
-.img profile.png{
-  border: 15px solid #4E3622;
+.profile.png{
+  border: 5px solid #4E3622;
   border-radius: 174px;
+  filter: grayscale(30%);
 }
 .nav-link{
   font: 20px;
@@ -74,7 +75,7 @@ div.container{
   color: #DAD3C9;
 }
 
-.btn.btn-primary {
+.btn btn-primary {
   --bs-btn-font-weight: 600;
   --bs-btn-color: var(--bs-white);
   --bs-btn-bg: var(--bd-#4E3622-bg);
@@ -89,7 +90,7 @@ div.container{
 }
 
 footer{
-  height: 0px;
+  height: 0;
   background-color: #4E3622;
 }
 
