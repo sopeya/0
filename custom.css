@@ -8,10 +8,10 @@ header{
   background-color: #FEFEFE;
 }
 
-body{
-  background-image: url('pexels-markus.jpg');
+img pexels-markus.jpg{
   backdrop-filter: blur(5px);
 }
+
 h1.web{
   color: #FEFEFE;
 }
