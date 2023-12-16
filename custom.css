@@ -24,8 +24,9 @@ h1.web{
 }
 
 .card-body{
-  background-color: #DAD3C9;
+  background-color: #d6c9bf;
 }
+
 .color-overlay{
   background-color: rgba(0, 0, 0, 0.6);
   min-height: 60vh;
@@ -39,8 +40,12 @@ h1.web{
 .profile.PNG{
   border: 2px solid #4E3622;
   border-radius: 15px;
-  filter: grayscale(30%);
 }
+
+.form-control{
+  background-color: lightgrey;
+}
+
 .nav-link{
   font: 20px;
   color: #35271E;
