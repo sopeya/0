@@ -92,11 +92,11 @@ footer{
 }
 
 footer a{
-    color:#35271E;
+    color: #dfdfdf;
 }
 
 footer a:hover{
-    color: #dfdfdf;
+    color:#35271E;
 }
 @media (max-width:768.98px){
   .color-overlay{
