@@ -63,13 +63,13 @@ h1.web{
 }
 
 .btn-outline-dark{
-  background-color: #AAA39B;
+  background-color:#4E3622; 
   align-items: center;
 }
 
 .btn-outline-dark:hover{
   background-color: #35271E;
-  color: #4E3622;
+  color: #AAA39B;
 }
 
 .btn.btn-primary {
