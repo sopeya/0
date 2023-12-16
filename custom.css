@@ -89,6 +89,7 @@ h1.web{
 footer{
   height: 0;
   background-color: #4E3622;
+  margin-top: calc(0 * var(--bs-gutter-y));
 }
 
 footer a{
