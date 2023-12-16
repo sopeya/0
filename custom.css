@@ -32,9 +32,9 @@ h1.web{
   background-color: #FEFEFE;
 }
 
-.profile.png{
-  border: 5px solid #4E3622;
-  border-radius: 174px;
+.profile.PNG{
+  border: 2px solid #4E3622;
+  border-radius: 15px;
   filter: grayscale(30%);
 }
 .nav-link{
