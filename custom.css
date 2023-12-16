@@ -74,7 +74,7 @@ h1.web{
 
 .btn.btn-primary {
   --bs-btn-font-weight: 600;
-  --bs-btn-color: var(--bs-white);
+  --bs-btn-color: var(--bs-brown);
   --bs-btn-bg: var(--bd-brown-bg);
   --bs-btn-border-color: var(--bd-#brown-bg);
   --bs-btn-hover-color: var(--bs-white);
