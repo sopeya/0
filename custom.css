@@ -15,7 +15,8 @@ body{
 .pexels-markus{
   backdrop-filter: blur(5px);
 }
-
+.row{
+  margin-top: calc(0 * var(--bs-gutter-y));
 h1.web{
   color: #FEFEFE;
 }
